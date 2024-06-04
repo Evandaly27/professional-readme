@@ -75,6 +75,9 @@ To run tests, run the following command:
 ${data.test}
 \`\`\`
 
+## Questions
+If you have any questions about this repository, please contact me at ${data.email}.
+
 `;
 }
 
