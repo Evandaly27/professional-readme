@@ -27,6 +27,10 @@ To install necessary dependencies, run the following command:
 npm i
 ```
 
+## Links
+
+https://drive.google.com/uc?id=1IE3IEOs755VkWUSUOG2HFas0gOBlSr9k&export=download
+
 ## Usage
 
 Once you have installed the dependencies you will run the file in the terminal and fill out the prompts provided to you. 
