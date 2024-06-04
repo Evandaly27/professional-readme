@@ -43,6 +43,37 @@ ${data.description}
 * [Usage](#usage)
 ${renderLicenseLink(data.license)}
 * [Contributing](#contributing)
+
+* [Tests](#tests)
+
+* [Questions](#questions)
+
+## Installation
+
+To install necessary dependencies, run the following command:
+
+\`\`\`
+${data.installation}
+\`\`\`
+
+## Usage
+
+${data.usage}
+
+${renderLicenseSection(data.license)}
+
+## Contributing
+
+${data.contributing}
+
+## Tests
+
+To run tests, run the following command:
+
+\`\`\`
+${data.test}
+\`\`\`
+
 `;
 }
 
