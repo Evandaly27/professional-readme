@@ -28,6 +28,7 @@ return "";
 }
 
 // TODO: Create a function to generate markdown for README
+// takes in data from the user input and returns a markdown template
 function generateMarkdown(data) {
   return `# ${data.title}
 ${renderLicenseBadge(data.license)}
